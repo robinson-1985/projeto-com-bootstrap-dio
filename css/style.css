@@ -21,6 +21,6 @@ body{
 }
 
 .bg-footer{
-    background-color: black;
-    color: white;
+    background-color: grey;
+    color: rgb(192, 226, 43);
 }
